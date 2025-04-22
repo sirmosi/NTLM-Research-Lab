@@ -150,7 +150,7 @@ This repository provides a detailed demonstration of **NTLM relay attacks**, cap
 
 ## References
 
-- [NTLM Relay Attack Overview](https://www.rapid7.com/db/vulnerabilities/)
+- [NTLM Relay Attack Overview]([https://www.rapid7.com/db/vulnerabilities/](https://www.semperis.com/blog/how-to-defend-against-ntlm-relay-attack/))
 - [Responder GitHub Repository](https://github.com/SpiderLabs/Responder)
 - [John the Ripper Documentation](https://www.openwall.com/john/)
 - [Microsoft Security Documentation](https://docs.microsoft.com/en-us/security-updates)
